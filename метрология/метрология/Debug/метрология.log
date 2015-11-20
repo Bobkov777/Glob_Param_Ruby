@@ -1,0 +1,28 @@
+﻿Построение начато 20.11.2015 18:17:30.
+     1>Проект "C:\Users\NotePad.by\documents\visual studio 2012\Projects\метрология\метрология\метрология.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Программы\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "метрология.cpp"
+         метрология.cpp
+     1>c:\users\notepad.by\documents\visual studio 2012\projects\метрология\метрология\метрология.cpp(37): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\программы\visual studio\vc\include\stdio.h(218): см. объявление "fopen"
+     1>c:\users\notepad.by\documents\visual studio 2012\projects\метрология\метрология\метрология.cpp(45): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\программы\visual studio\vc\include\stdio.h(218): см. объявление "fopen"
+     1>c:\users\notepad.by\documents\visual studio 2012\projects\метрология\метрология\метрология.cpp(85): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\программы\visual studio\vc\include\stdio.h(218): см. объявление "fopen"
+     1>c:\users\notepad.by\documents\visual studio 2012\projects\метрология\метрология\метрология.cpp(102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\программы\visual studio\vc\include\stdio.h(218): см. объявление "fopen"
+     1>c:\users\notepad.by\documents\visual studio 2012\projects\метрология\метрология\метрология.cpp(128): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\программы\visual studio\vc\include\stdio.h(237): см. объявление "fscanf"
+     1>c:\users\notepad.by\documents\visual studio 2012\projects\метрология\метрология\метрология.cpp(129): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\программы\visual studio\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\notepad.by\documents\visual studio 2012\projects\метрология\метрология\метрология.cpp(157): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\программы\visual studio\vc\include\string.h(110): см. объявление "strcpy"
+     1>c:\users\notepad.by\documents\visual studio 2012\projects\метрология\метрология\метрология.cpp(173): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+       Link:
+         E:\Программы\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\NotePad.by\documents\visual studio 2012\Projects\метрология\Debug\метрология.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\NotePad.by\documents\visual studio 2012\Projects\метрология\Debug\метрология.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\NotePad.by\documents\visual studio 2012\Projects\метрология\Debug\метрология.lib" /MACHINE:X86 "Debug\метрология.obj"
+         метрология.vcxproj -> C:\Users\NotePad.by\documents\visual studio 2012\Projects\метрология\Debug\метрология.exe
+     1>Построение проекта "C:\Users\NotePad.by\documents\visual studio 2012\Projects\метрология\метрология\метрология.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.39
